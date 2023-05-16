@@ -1,0 +1,16 @@
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\bin\Debug\net5.0\Hwork6.exe
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\bin\Debug\net5.0\Hwork6.deps.json
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\bin\Debug\net5.0\Hwork6.runtimeconfig.json
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\bin\Debug\net5.0\Hwork6.runtimeconfig.dev.json
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\bin\Debug\net5.0\Hwork6.dll
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\bin\Debug\net5.0\Hwork6.pdb
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\obj\Debug\net5.0\Hwork6.csproj.AssemblyReference.cache
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\obj\Debug\net5.0\Hwork6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\obj\Debug\net5.0\Hwork6.AssemblyInfoInputs.cache
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\obj\Debug\net5.0\Hwork6.AssemblyInfo.cs
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\obj\Debug\net5.0\Hwork6.csproj.CoreCompileInputs.cache
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\obj\Debug\net5.0\Hwork6.dll
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\obj\Debug\net5.0\refint\Hwork6.dll
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\obj\Debug\net5.0\Hwork6.pdb
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\obj\Debug\net5.0\Hwork6.genruntimeconfig.cache
+C:\Users\mate\Desktop\commschool homeworks\Homework6\Hwork6\Hwork6\obj\Debug\net5.0\ref\Hwork6.dll
