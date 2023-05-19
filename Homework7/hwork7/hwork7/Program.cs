@@ -96,33 +96,48 @@ namespace hwork7
                 }
 
                 totalIncome += dailyIncome;
-            }
-
-            Console.WriteLine($"Income of employee 1 during the week: {totalIncome}");
             
-            // n6
+            Console.WriteLine($"Income of employee 1 during the week: {totalIncome}");
+            }
+            
+            
+            //5
+         
+                int[] performance = { 5, 8, 8, 9, 10 };
 
-            string[] array = { "hello", "world", "programming", "communication", };
+                int numImprovements = performance.Zip(performance.Skip(1), (current, previous) => current > previous ? 1 : 0).Sum();
 
-            Console.WriteLine("enter the length of the element: ");
-            int length = int.Parse(Console.ReadLine());
+                Console.WriteLine($"George improved his performance on {numImprovements} days.");
 
-            var matchingElements = array.Where(element => element.Length == length);
 
-            if (matchingElements.Any())
-            {
-                foreach ( string element in matchingElements )
+
+                
+
+
+                // n6
+
+                string[] array = { "hello", "world", "programming", "communication", };
+
+                Console.WriteLine("enter the length of the element: ");
+                int length = int.Parse(Console.ReadLine());
+
+                var matchingElements = array.Where(element => element.Length == length);
+
+                if (matchingElements.Any())
                 {
-                    Console.WriteLine(element);
+                    foreach ( string element in matchingElements )
+                    {
+                        Console.WriteLine(element);
+
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("no elements found");
 
                 }
-            }
-            else
-            {
-                Console.WriteLine("no elements found");
-
-            }
-            */
+                */
+            
         }
 
 
